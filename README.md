@@ -1,2 +1,2 @@
 # Health-Functional-Food-Verification
-Verification of health food chenet effect through mujuco and ai engine
+Verification of health food chenet effect through mujoco and ai engine
